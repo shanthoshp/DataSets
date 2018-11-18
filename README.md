@@ -7,7 +7,7 @@ By using the Law of Large Numbers, it proved that the bigger the sample size and
 
 # Financial Statements
 I have been supplied with two vectors of data: monthly revenue and monthly 
-expenses for the financial year. I muat calculate the following 
+expenses for the financial year. I must calculate the following 
 financial metrics:
 
 - profit for each month

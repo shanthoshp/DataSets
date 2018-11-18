@@ -1,3 +1,7 @@
+# Exploring Data Science
+This repo will hold some projects regarding data science case studies and theories. 
+
+
 # Law Of Large Numbers
 Proved the Law of Large Numbers with normal distribuations of the rand() function. 
 

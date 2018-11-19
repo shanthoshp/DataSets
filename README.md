@@ -21,3 +21,10 @@ financial metrics:
 - bad months - where the profit after tax was less than the mean for the year
 - the best month - where the profit after tax was max for the year
 - the worst month - where the profit after tax was min for the year
+
+# NBA Top Ten Player Free Throw Analysis (2005/2015 Season)
+Calculated and analyzed FT stats of NBA players 
+
+- Free Throw Attempts per game
+- Accuracy of Free Throws
+- Player playing style (2 vs 3 points preference) excluding Free Throws

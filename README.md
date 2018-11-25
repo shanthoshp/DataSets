@@ -28,3 +28,9 @@ Calculated and analyzed FT stats of NBA players
 - Free Throw Attempts per game
 - Accuracy of Free Throws
 - Player playing style (2 vs 3 points preference) excluding Free Throws
+
+# World Trend Visualisation
+
+- CSV file data and Python List data manipulation
+- Produced a scatterplot depicting Life Expectancy (y axis) and Fertility Rate (x-axis) statistics by Country
+- Used Seaborn, matplotlib, and panda

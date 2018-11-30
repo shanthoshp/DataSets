@@ -34,3 +34,8 @@ Calculated and analyzed FT stats of NBA players
 - CSV file data and Python List data manipulation
 - Produced a scatterplot depicting Life Expectancy (y axis) and Fertility Rate (x-axis) statistics by Country
 - Used Seaborn, matplotlib, and panda
+
+# MOVIE % DOMESTIC GROSS
+
+- Compare data set using seaborn, matplotlib and pandas
+- Combine a boxplot and stripplot graph into one graph

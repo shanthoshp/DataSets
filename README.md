@@ -1,5 +1,5 @@
 # Exploring Data Science
-This repo will hold some projects regarding data science case studies and theories. 
+This repo will hold some projects regarding data science data sets and case studies
 
 
 # Law Of Large Numbers

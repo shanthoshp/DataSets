@@ -38,4 +38,4 @@ Calculated and analyzed FT stats of NBA players
 # MOVIE % DOMESTIC GROSS
 
 - Compare data set using seaborn, matplotlib and pandas
-- Combine a boxplot and stripplot graph into one graph
+- Combine a boxplot and scatterplot graph into one graph
